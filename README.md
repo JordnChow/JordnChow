@@ -4,19 +4,18 @@
 
 </div>
 
-### I'm an aspiring young developer and...
+## I'm an aspiring young developer and...
 - :page_facing_up: Google python certificate [holder](https://www.coursera.org/account/accomplishments/verify/GM3GSBJG82YB),
 - :star: Certified front end [developer](https://www.codecademy.com/profiles/JordanChow/certificates/2682884a0719474f96407efe432fdd87)
 - :pencil: Mathematics Enthusiast,
-- :muscle: Always ready to learn,
-- :kimono: Did you know that i've almost been doing BJJ for a decade?
+- :muscle: Always ready to learn
 
 
 ## Skills and Qualities
 
 <table style="width:100%; background: rgba(288,288,288, 0.1)">
   <tr>
-  <td align="center">
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" />
       <br>JavaScript
     </td>
@@ -32,14 +31,14 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80" />
       <br>Python
     </td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="Git" width="80" height="80" />
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="80" height="80" />
       <br>Git
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/ios-filled/80/000000/test-tube.png" alt="Tests" width="80" height="80" />
+      <img src="https://img.icons8.com/ios-filled/80/ffffff/test-tube.png" alt="Tests" width="80" height="80" />
       <br>Tests
     </td>
     <td align="center">
@@ -47,17 +46,17 @@
       <br>React
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/ios-filled/80/000000/teamwork.png" alt="Teamwork" width="80" height="80" />
+      <img src="https://img.icons8.com/ios-filled/80/ffffff/teamwork.png" alt="Teamwork" width="80" height="80" />
       <br>Teamwork
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/ios-filled/80/000000/brain.png" alt="Imaginative" width="80" height="80" />
+      <img src="https://img.icons8.com/ios-filled/80/ffffff/brain.png" alt="Imaginative" width="80" height="80" />
       <br>Imaginative
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/ios-filled/80/000000/groups.png" alt="Social" width="80" height="80" />
+      <img src="https://img.icons8.com/ios-filled/80/ffffff/groups.png" alt="Social" width="80" height="80" />
       <br>Social
     </td>
     <td align="center">
@@ -66,3 +65,19 @@
     </td>
   </tr>
 </table>
+
+
+## Past/current projects:
+ - Student Hub(unfinished)
+    * [Github](https://github.com/JordnChow/Student-Hub)
+    * [Website](https://jordnchow.github.io/Student-Hub/public/index.html)
+    * Collaborated with Max Galea
+    * Aim: To organise a student's daily life
+ - Pokedex
+    * [Github](https://github.com/JordnChow/pokedex/)
+    * [Website](https://jordnchow.github.io/pokedex/)
+    * Fun side project to test my API and react skills
+ - Retropedia
+    * [Github](https://github.com/JordnChow/Retropedia)
+    * [Website](https://jordnchow.github.io/retropedia)
+    * The first website i've made (please excuse the messiness :pray:)
