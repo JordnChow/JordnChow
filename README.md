@@ -5,8 +5,9 @@
 </div>
 
 ## I'm an aspiring young developer and...
-- :page_facing_up: Google python certificate [holder](https://www.coursera.org/account/accomplishments/verify/GM3GSBJG82YB),
-- :star: Certified front end [developer](https://www.codecademy.com/profiles/JordanChow/certificates/2682884a0719474f96407efe432fdd87)
+- :star: Codecademy Certified Professional Front End [Engineer](https://www.codecademy.com/profiles/JordanChow/certificates/2682884a0719474f96407efe432fdd87),
+- :page_facing_up: Google Python Certificate [holder](https://www.coursera.org/account/accomplishments/verify/GM3GSBJG82YB),
+- :computer: Currently working through IBM Professional Machine learning Python course
 - :pencil: Mathematics Enthusiast,
 - :muscle: Always ready to learn
 
