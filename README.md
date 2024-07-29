@@ -14,7 +14,7 @@
 
 ## Skills and Qualities
 
-<table style="width:100%; background: rgba(288,288,288, 0.1)">
+<table style="width:100%; background: rgba(0,0,0)">
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" />
@@ -39,8 +39,8 @@
       <br>Git
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/ios-filled/80/ffffff/test-tube.png" alt="Tests" width="80" height="80" />
-      <br>Tests
+      <img src="https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png" alt="Node" width="80" height="80" />
+      <br>Node.js
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80" />
