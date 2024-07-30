@@ -80,9 +80,9 @@
     * Fun side project to test my API and react skills
  - Retropedia
     * [Github](https://github.com/JordnChow/Retropedia)
-    * [Website](https://jordnchow.github.io/retropedia)
+    * [Website](https://jordnchow.github.io/Retropedia)
     * The first website i've made (please excuse the messiness :pray:)
   - WeatherApp
     * [Github](https://github.com/JordnChow/WeatherApp)
-    * [Website](https://jordnchow.github.io/WeatherApp)
+    * [Website](https://jordnchow.github.io/Weatherapp)
     * A side project I made during my free time.
